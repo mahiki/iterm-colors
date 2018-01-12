@@ -1,4 +1,6 @@
 # iTerm Color Schemes
+[see iterm2colorschemes.com to view all screenshots](http://iterm2colorschemes.com/), or cmd-click one in the terminal to view jpeg.
+
 
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
