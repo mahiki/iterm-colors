@@ -7,13 +7,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.15696373581886292</real>
+		<real>0.31020656228065491</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.15158611536026001</real>
+		<real>0.3840484619140625</real>
 		<key>Red Component</key>
-		<real>0.14054960012435913</real>
+		<real>0.30622613430023193</real>
 	</dict>
 	<key>Ansi 1 Color</key>
 	<dict>
@@ -189,13 +189,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.40376681089401245</real>
+		<real>0.0</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.39953488111495972</real>
+		<real>0.0</real>
 		<key>Red Component</key>
-		<real>0.38693180680274963</real>
+		<real>0.0</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
@@ -293,13 +293,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.1257171630859375</real>
+		<real>0.4309844970703125</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.1257171630859375</real>
+		<real>0.4309844970703125</real>
 		<key>Red Component</key>
-		<real>0.1257171630859375</real>
+		<real>0.4309844970703125</real>
 	</dict>
 	<key>Link Color</key>
 	<dict>
@@ -319,11 +319,11 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0269775390625</real>
+		<real>0.1774875819683075</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.66650390625</real>
 		<key>Red Component</key>
 		<real>0.0</real>
 	</dict>
@@ -332,13 +332,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.77288818359375</real>
+		<real>1</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.0</real>
+		<real>0.7732391357421875</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.99893426895141602</real>
 	</dict>
 	<key>Tab Color</key>
 	<dict>
