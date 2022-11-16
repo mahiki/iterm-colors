@@ -76,7 +76,7 @@ There are 3 ways to install an iTerm theme:
 
 ## Contribute
 
-### Prerequisites 
+### Prerequisites
 
 1. For convenient work with generation scripts, it is recommended to install [pyenv](https://github.com/pyenv/pyenv).
 2. Run `pyenv install` inside project folder to install python version from `.python-version` file.
@@ -122,7 +122,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
   {{ Selection_Color }}
   {{ Ansi_0_Color }} // black
   {{ Ansi_1_Color }} // red
-  {{ Ansi_2_Color }} // green 
+  {{ Ansi_2_Color }} // green
   {{ Ansi_3_Color }} // yellow
   {{ Ansi_4_Color }} // blue
   {{ Ansi_5_Color }} // magenta
@@ -557,6 +557,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Gruvbox Dark
 
 ![Screenshot](screenshots/gruvbox_dark.png)
+
+### Gruvbox Dark Hard
+
+![Screenshot](screenshots/gruvbox_dark_hard.png)
 
 ### Gruvbox Light
 
