@@ -323,9 +323,9 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.0</real>
+		<real>0.92485564947128296</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.65252792835235596</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
@@ -336,9 +336,9 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.0</real>
+		<real>0.1449611485004425</real>
 		<key>Red Component</key>
-		<real>0.0</real>
+		<real>0.10131668299436569</real>
 	</dict>
 	<key>Tab Color</key>
 	<dict>
