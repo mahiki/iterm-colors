@@ -8,6 +8,10 @@
 
 ![image](3024_night.png)
 
+`Aardvark Blue.png`
+
+![image](aardvark_blue.png)
+
 `abernathy.png`
 
 ![image](abernathy.png)
@@ -35,6 +39,10 @@
 `apple-classic.png`
 
 ![image](apple-classic.png)
+
+`apple-system-colors.png`
+
+![image](apple-system-colors.png)
 
 `argonaut.png`
 
@@ -136,34 +144,6 @@
 
 ![image](brogrammer.png)
 
-`builtin_dark.png`
-
-![image](builtin_dark.png)
-
-`builtin_light.png`
-
-![image](builtin_light.png)
-
-`builtin_pastel_dark.png`
-
-![image](builtin_pastel_dark.png)
-
-`builtin_solarized_dark.png`
-
-![image](builtin_solarized_dark.png)
-
-`builtin_solarized_light.png`
-
-![image](builtin_solarized_light.png)
-
-`builtin_tango_dark.png`
-
-![image](builtin_tango_dark.png)
-
-`builtin_tango_light.png`
-
-![image](builtin_tango_light.png)
-
 `c64.png`
 
 ![image](c64.png)
@@ -256,6 +236,10 @@
 
 ![image](darkside.png)
 
+`dayfox.png`
+
+![image](dayfox.png)
+
 `deep.png`
 
 ![image](deep.png)
@@ -332,6 +316,14 @@
 
 ![image](everblush.png)
 
+`farmhouse-dark.png`
+
+![image](farmhouse-dark.png)
+
+`farmhouse-light.png`
+
+![image](farmhouse-light.png)
+
 `fahrenheit.png`
 
 ![image](fahrenheit.png)
@@ -343,6 +335,10 @@
 `fideloper.png`
 
 ![image](fideloper.png)
+
+`firefly-traditional.png`
+
+![image](firefly-traditional.png)
 
 `firefox_dev.png`
 
@@ -363,6 +359,14 @@
 `flatland.png`
 
 ![image](flatland.png)
+
+`flexoki-dark.png`
+
+![image](flexoki-dark.png)
+
+`flexoki-light.png`
+
+![image](flexoki-light.png)
 
 `floraverse.png`
 
@@ -504,6 +508,42 @@
 
 ![image](ir_black.png)
 
+`iterm2-default.png`
+
+![image](iterm2-default.png)
+
+`iterm2-dark-background.png`
+
+![image](iterm2-dark-background.png)
+
+`iterm2-light-background.png`
+
+![image](iterm2-light-background.png)
+
+`iterm2-pastel-dark-background.png`
+
+![image](iterm2-pastel-dark-background.png)
+
+`iterm2-smoooooth.png`
+
+![image](iterm2-smoooooth.png)
+
+`iterm2-solarized-dark.png`
+
+![image](iterm2-solarized-dark.png)
+
+`iterm2-solarized-light.png`
+
+![image](iterm2-solarized-light.png)
+
+`iterm2-tango-dark.png`
+
+![image](iterm2-tango-dark.png)
+
+`iterm2-tango-light.png`
+
+![image](iterm2-tango-light.png)
+
 `jackie_brown.png`
 
 ![image](jackie_brown.png)
@@ -604,6 +644,10 @@
 
 ![image](medallion.png)
 
+`mellifluous.png`
+
+![image](mellifluous.png)
+
 `midnight_in_mojave.png`
 
 ![image](midnight_in_mojave.png)
@@ -648,6 +692,10 @@
 
 ![image](neutron.png)
 
+`nightfox.png`
+
+![image](nightfox.png)
+
 `night_owlish_light.png`
 
 ![image](night_owlish_light.png)
@@ -659,6 +707,10 @@
 `nightlion_v2.png`
 
 ![image](nightlion_v2.png)
+
+`niji.png`
+
+![image](niji.png)
 
 `nocturnal_winter.png`
 
@@ -675,6 +727,14 @@
 `novel.png`
 
 ![image](novel.png)
+
+`NvimDark.png`
+
+![image](NvimDark.png)
+
+`NvimLight.png`
+
+![image](NvimLight.png)
 
 `obsidian.png`
 
@@ -968,6 +1028,10 @@
 
 ![image](teerb.png)
 
+`terafox.png`
+
+![image](terafox.png)
+
 `terminal_basic.png`
 
 ![image](terminal_basic.png)
@@ -1063,6 +1127,10 @@
 `vaughn.png`
 
 ![image](vaughn.png)
+
+`vesper.png`
+
+![image](vesper.png)
 
 `vibrant_ink.png`
 

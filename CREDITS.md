@@ -2,6 +2,8 @@
 
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
 
+The Aardvark Blue theme was created by [joshka](https://github.com/joshka)
+
 The Abernathy theme was created by [barish](https://instagram.com/barish)
 
 The Adventure theme was created by [hongzimao](https://github.com/hongzimao/iTerm2-Color-Schemes)
@@ -15,6 +17,8 @@ The Alabaster theme was created by [mkaschenko](https://github.com/mkaschenko) b
 The Andromeda theme was created by [memije](https://github.com/memije) based on [EliverLara](https://github.com/EliverLara/)'s [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) VS Code theme.
 
 The Apple Classic theme was created by [Brian Meyer](https://github.com/CodeMonkeyBrian)
+
+The Apple System Colors theme was created by [Jeremy Bahadirli](https://github.com/jeremybahadirli)
 
 The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
 
@@ -72,6 +76,8 @@ The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt
 
 The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
+The CutiePro theme was created by [jezzy](https://github.com/jezzy-ultra)
+
 The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 
 The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
@@ -102,9 +108,13 @@ The Everblush theme was created by [Mangeshrex](https://github.com/Mangeshrex)
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
+The Farmhouse themes where created by [mattly](https://github.com/mattly) https://github.com/mattly/iterm-colors-farmhouse based on an original Emacs theme.
+
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
 
 The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)
+
+The Firefly Traditional theme was created by [Seunghun Thomas Lee](https://github.com/stlee42)
 
 The FirefoxDev theme was created by [Or3stis](https://github.com/Or3stis)
 
@@ -113,6 +123,8 @@ The Firewatch theme was created by [Sebastian Szturo](https://github.com/Sebasti
 The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-terminal)
 
 The Flatland theme was created by [realchaseadams](http://www.snip2code.com/Snippet/148193/Flatland-color-scheme-for-iTerm2)
+
+The Flexoki theme was created by [kepano](https://stephango.com/flexoki)
 
 The Floraverse theme was created by [papayakitty](http://floraverse.com/)
 
@@ -192,6 +204,8 @@ The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynen
 
 The Matrix theme series were created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
 
+The Mellifluous theme was adapted by [rektdeckard](https://github.com/rektdeckard) from the NeoVim scheme of the same name by [ramojus](https://github.com/ramojus/mellifluous.nvim)
+
 The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/oberstkrueger) based on the colors outlined in the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 
 The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mirage) and ported to iTerm2 by [Gomah](https://github.com/Gomah/mirage-iterm).
@@ -210,15 +224,21 @@ The theme Neon was created by [phosphorcube](https://github.com/phosphorcube/iTe
 
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
+The Nightfox, Dayfox and Terafox theme was created by [EdenEast](https://github.com/edeneast/nightfox.nvim)
+
 The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/category/themes/)
 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
+
+The Niji theme was created by [some dude](https://github.com/indyandie) based on [Arcoiris](./README.md#niji) and [darcula](https://github.com/helix-editor/helix/blob/d5af6031f6ccd0a3f32efbb210aec24cd9c71ab1/runtime/themes/darcula.toml)
 
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 
 Nord theme were added by [Teraskull](https://github.com/Teraskull)
 
 Nord-light were added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
+
+The NvimDark and NvimLight themes were added by [slavamak](https://github.com/slavamak)
 
 The Obsidian theme was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author(s).
 
@@ -329,6 +349,8 @@ The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
 The Under The Sea theme was created by [peterpme](https://github.com/peterpme)
 
 The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
+
+The Vesper theme was originally created by [raunofreiberg](https://github.com/raunofreiberg) for VSCode, ported to iTerm2 by [geoffreybrunet](https://github.com/GeoffreyBrunet) and added by [ubmit](https://github.com/ubmit)
 
 The VibrantInk theme was created by [asanghi](https://github.com/asanghi/vibrantinklion)
 
