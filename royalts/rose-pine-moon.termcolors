@@ -44,7 +44,7 @@
     },
     {
       "name": "Green",
-      "color": "#9ccfd8",
+      "color": "#3e8fb0",
       "terminalMapping": "ansiGreen"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Blue",
-      "color": "#3e8fb0",
+      "color": "#9ccfd8",
       "terminalMapping": "ansiBlue"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "name": "BrightGreen",
-      "color": "#9ccfd8",
+      "color": "#3e8fb0",
       "terminalMapping": "ansiBrightGreen"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "BrightBlue",
-      "color": "#3e8fb0",
+      "color": "#9ccfd8",
       "terminalMapping": "ansiBrightBlue"
     },
     {

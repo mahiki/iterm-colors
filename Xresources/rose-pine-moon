@@ -1,6 +1,5 @@
 !
-! Generated with :
-! XRDB2Xreources.py
+! rose-pine-moon
 !
 *.foreground:  #e0def4
 *.background:  #232136
@@ -15,16 +14,16 @@
 *.color9:      #eb6f92
 !
 ! Green
-*.color2:      #9ccfd8
-*.color10:     #9ccfd8
+*.color2:      #3e8fb0
+*.color10:     #3e8fb0
 !
 ! Yellow
 *.color3:      #f6c177
 *.color11:     #f6c177
 !
 ! Blue
-*.color4:      #3e8fb0
-*.color12:     #3e8fb0
+*.color4:      #9ccfd8
+*.color12:     #9ccfd8
 !
 ! Magenta
 *.color5:      #c4a7e7

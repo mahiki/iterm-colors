@@ -1,6 +1,5 @@
 !
-! Generated with :
-! XRDB2Xreources.py
+! rose-pine-dawn
 !
 *.foreground:  #575279
 *.background:  #faf4ed
@@ -15,16 +14,16 @@
 *.color9:      #b4637a
 !
 ! Green
-*.color2:      #56949f
-*.color10:     #56949f
+*.color2:      #286983
+*.color10:     #286983
 !
 ! Yellow
 *.color3:      #ea9d34
 *.color11:     #ea9d34
 !
 ! Blue
-*.color4:      #286983
-*.color12:     #286983
+*.color4:      #56949f
+*.color12:     #56949f
 !
 ! Magenta
 *.color5:      #907aa9

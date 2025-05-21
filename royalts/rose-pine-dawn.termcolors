@@ -44,7 +44,7 @@
     },
     {
       "name": "Green",
-      "color": "#56949f",
+      "color": "#286983",
       "terminalMapping": "ansiGreen"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Blue",
-      "color": "#286983",
+      "color": "#56949f",
       "terminalMapping": "ansiBlue"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "name": "BrightGreen",
-      "color": "#56949f",
+      "color": "#286983",
       "terminalMapping": "ansiBrightGreen"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "BrightBlue",
-      "color": "#286983",
+      "color": "#56949f",
       "terminalMapping": "ansiBrightBlue"
     },
     {
